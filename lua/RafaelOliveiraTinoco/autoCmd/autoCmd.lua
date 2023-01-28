@@ -1,3 +1,4 @@
+vim.cmd("" .. "set number") -- Display current line number on the left
 vim.cmd("" .. "set relativenumber") -- Relative number on the left
 
 -- Colorscheme
