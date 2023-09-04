@@ -1,5 +1,6 @@
 Requirements
     NeoVim
+    Git
     NvChad
         Download all the requirements for NvChad
     node.js -> npm
