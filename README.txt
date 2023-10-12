@@ -10,6 +10,9 @@ Load this config:
     Paste the files of this repository in ~/.config/nvim/lua/custom/ -> Linux
     Paste the files of this repository in ~\AppData\Local\nvim\lua\custom -> Windows
 
+Important Commands:
+    :MasonInstallAll -> Download all LSP in plugins.lua
+
 Deal with copy and past problems
     Run command :checkhealth provider
     If you don't have a clipboard provider run the command :help clipboard and download one of the clipboards providers in the list
