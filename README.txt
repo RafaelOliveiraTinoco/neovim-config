@@ -7,7 +7,8 @@ Requirements
 
 Load this config:
     After downloading NvChad
-    Paste the files of this repository in ~/.config/nvim/lua/custom/
+    Paste the files of this repository in ~/.config/nvim/lua/custom/ -> Linux
+    Paste the files of this repository in ~\AppData\Local\nvim\lua\custom -> Windows
 
 Deal with copy and past problems
     Run command :checkhealth provider
