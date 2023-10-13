@@ -1,4 +1,4 @@
-Requirements
+# 1. Requirements
     NeoVim
     Git
     node.js -> npm
@@ -10,20 +10,20 @@ Requirements
             (OPTIONAL) Ripgrep is required for grep searching with Telescope. -> https://github.com/BurntSushi/ripgrep
             (For Windows Users: gcc, make -> required for this config) Pack with GCC, Make, and more: https://github.com/skeeto/w64devkit/releases after installation set on PATH
         Download nvchad: https://nvchad.com/docs/quickstart/install
+        Delete old neovim folder
 
-Load this config:
-    After downloading NvChad
-    Paste the files of this repository in ~/.config/nvim/lua/custom/ -> Linux
-    Paste the files of this repository in ~\AppData\Local\nvim\lua\custom -> Windows
+# 2. Load this config:
+    Windows -> git clone https://github.com/RafaelOliveiraTinoco/neovim-config $HOME\AppData\Local\nvim\lua\custom
+    Linux -> git clone https://github.com/RafaelOliveiraTinoco/neovim-config ~/.config/nvim/lua/custom
 
-Important Commands:
+# Important Commands:
     :MasonInstallAll -> Download all LSP in plugins.lua
 
-Deal with copy and past problems
+# Deal with copy and past problems
     Run command :checkhealth provider
     If you don't have a clipboard provider run the command :help clipboard and download one of the clipboards providers in the list
 
-LSP
+# LSP
     What is the Language Server Protocol?
         The Language Server Protocol (LSP) defines the protocol used between an editor or IDE and a language server that provides language features like auto complete, go to definition, find all references etc.
     How to download more LSP:
