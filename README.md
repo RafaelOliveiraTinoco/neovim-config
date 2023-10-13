@@ -1,5 +1,5 @@
 # 1. Requirements
-* (OPTIONAL)[Updated PowerShell](https://aka.ms/PSWindows)
+* (OPTIONAL) [Updated PowerShell](https://aka.ms/PSWindows)
 * NeoVim
 * Git
 * node.js -> npm
