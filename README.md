@@ -1,5 +1,5 @@
 # 1. Requirements
-* (OPTIONAL) [Updated PowerShell](https://aka.ms/PSWindows)
+* (OPTIONAL - highly recommended) [Cygwin](https://www.cygwin.com/install.html) Bash shell for Windows
 * [NeoVim](https://neovim.io/)
 * [Git](https://git-scm.com/)
 * [node.js and npm](https://nodejs.org/en)
