@@ -9,6 +9,7 @@ Requirements
                 Example : JetbrainsMono Nerd Font and not JetbrainsMono Nerd Font Mono
             (OPTIONAL) Ripgrep is required for grep searching with Telescope. -> https://github.com/BurntSushi/ripgrep
             (For Windows Users: gcc, make -> required for this config) Pack with GCC, Make, and more: https://github.com/skeeto/w64devkit/releases after installation set on PATH
+        Download nvchad: https://nvchad.com/docs/quickstart/install
 
 Load this config:
     After downloading NvChad
