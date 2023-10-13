@@ -10,10 +10,10 @@
         * (OPTIONAL) [Ripgrep](https://github.com/BurntSushi/ripgrep) is required for grep searching with Telescope.
         * **(For Windows Users: gcc, make are required for nvchad)** [Download Pack with GCC, Make, and more](https://github.com/skeeto/w64devkit/releases) after installation set on PATH
     * Delete old neovim folder
-        * # Linux / Macos (unix)
+        * **Linux / Macos (unix)**
         -rf ~/.config/nvim
         ~/.local/share/nvim
-        * # Windows
+        * **Windows**
         ~\AppData\Local\nvim
         ~\AppData\Local\nvim-data
     * Download nvchad: https://nvchad.com/docs/quickstart/install
