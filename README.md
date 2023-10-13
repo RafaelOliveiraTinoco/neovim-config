@@ -22,8 +22,8 @@
    * Run nvim and press N to not install the default config
 
 # 2. Load this config:
-Windows -> git clone https://github.com/RafaelOliveiraTinoco/neovim-config $HOME\AppData\Local\nvim\lua\custom
-Linux -> git clone https://github.com/RafaelOliveiraTinoco/neovim-config ~/.config/nvim/lua/custom
+* Windows: git clone https://github.com/RafaelOliveiraTinoco/neovim-config $HOME\AppData\Local\nvim\lua\custom
+* Linux: git clone https://github.com/RafaelOliveiraTinoco/neovim-config ~/.config/nvim/lua/custom
 
 # Important Commands:
 :MasonInstallAll -> Download all LSP in plugins.lua
