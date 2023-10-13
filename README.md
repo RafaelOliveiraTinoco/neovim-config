@@ -1,6 +1,6 @@
 # 1. Requirements
 * (OPTIONAL) [Updated PowerShell](https://aka.ms/PSWindows)
-* NeoVim
+* [NeoVim](https://neovim.io/)
 * Git
 * node.js -> npm
 * NvChad
