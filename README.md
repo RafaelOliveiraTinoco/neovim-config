@@ -3,20 +3,23 @@
 * Git
 * node.js -> npm
 * NvChad
-    * Download all the requirements for NvChad
+   * Download all the requirements for NvChad
         * [Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/JetBrainsMono.zip) as your terminal font.
             * Make sure the nerd font you set doesn't end with Mono to prevent small icons.
             * Example : JetbrainsMono Nerd Font and not JetbrainsMono Nerd Font Mono
         * (OPTIONAL) [Ripgrep](https://github.com/BurntSushi/ripgrep) is required for grep searching with Telescope.
         * **(For Windows Users: gcc, make are required for nvchad)** [Download Pack with GCC, Make, and more](https://github.com/skeeto/w64devkit/releases) after installation set on PATH
-    * Delete old neovim folder
+   * Delete old neovim folder
         * Linux / Macos (unix):
             * ~/.config/nvim
             * ~/.local/share/nvim
         * Windows:
             * ~\AppData\Local\nvim
             * ~\AppData\Local\nvim-data
-    * Download nvchad: https://nvchad.com/docs/quickstart/install
+   * Download nvchad: 
+        * Linux / Macos (unix): git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+        * Windows: git clone https://github.com/NvChad/NvChad $HOME\AppData\Local\nvim --depth 1
+   * Run nvim and press N to not install the default config
 
 # 2. Load this config:
 Windows -> git clone https://github.com/RafaelOliveiraTinoco/neovim-config $HOME\AppData\Local\nvim\lua\custom
