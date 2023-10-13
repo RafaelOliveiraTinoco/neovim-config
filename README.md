@@ -1,8 +1,8 @@
 # 1. Requirements
 * (OPTIONAL) [Updated PowerShell](https://aka.ms/PSWindows)
 * [NeoVim](https://neovim.io/)
-* Git
-* node.js -> npm
+* [Git](https://git-scm.com/)
+* [node.js and npm](https://nodejs.org/en)
 * NvChad
    * Download all the requirements for NvChad
         * [Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/JetBrainsMono.zip) as your terminal font.
