@@ -8,4 +8,4 @@ vim.cmd('set shiftwidth=4')
 vim.cmd('set clipboard+=unnamedplus')
 
 -- Remove background
-vim.cmd[[autocmd VimEnter * highlight Normal guibg=none]]
+-- vim.cmd[[autocmd VimEnter * highlight Normal guibg=none]]
