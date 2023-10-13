@@ -49,4 +49,4 @@ How to download more LSP:
 1. To dowload a better syntax highlighter for a language run the command :TSModuleInfo and search for your language in the list
 2. Once you find the language open plugins.lua file and add the language name to the list in "Better Syntax Highlighing" section, and save the file
 
-Default vim commands in init.lua file
+**Default vim commands in init.lua file**
