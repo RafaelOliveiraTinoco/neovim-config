@@ -1,9 +1,14 @@
 Requirements
     NeoVim
     Git
+    node.js -> npm
     NvChad
         Download all the requirements for NvChad
-    node.js -> npm
+            Nerd Font as your terminal font.
+                Make sure the nerd font you set doesn't end with Mono to prevent small icons.
+                Example : JetbrainsMono Nerd Font and not JetbrainsMono Nerd Font Mono
+            (OPTIONAL) Ripgrep is required for grep searching with Telescope. -> https://github.com/BurntSushi/ripgrep
+            (For Windows Users: gcc, make -> required for this config) Pack with GCC, Make, and more: https://github.com/skeeto/w64devkit/releases after installation set on PATH
 
 Load this config:
     After downloading NvChad
