@@ -1,5 +1,6 @@
 # 1. Requirements
-* (OPTIONAL - highly recommended) [Cygwin](https://www.cygwin.com/install.html) Bash shell for Windows
+* (OPTIONAL - highly recommended) [Git Bash](https://git-scm.com/downloads) Bash shell for Windows
+  * To make nvim work with the Git Bash, do not run the Git Bash program, use instead <Git Installation Folder>\bin\bash.exe
 * [NeoVim](https://neovim.io/)
 * [Git](https://git-scm.com/)
 * [node.js and npm](https://nodejs.org/en)
