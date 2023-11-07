@@ -10,7 +10,7 @@
             * Make sure the nerd font you set doesn't end with Mono to prevent small icons.
             * Example : JetbrainsMono Nerd Font and not JetbrainsMono Nerd Font Mono
         * (OPTIONAL) [Ripgrep](https://github.com/BurntSushi/ripgrep) is required for grep searching with Telescope.
-        * **(For Windows Users: gcc, make are required for nvchad)** [Download Pack with GCC, Make, and more](https://github.com/skeeto/w64devkit/releases) after installation set on PATH
+        * **(For Windows Users: (gcc and make) are required for nvchad)** [Download Pack with GCC, Make, and more](https://github.com/skeeto/w64devkit/releases) after installation set on PATH
    * Delete old neovim folder
         * Linux / Macos (unix):
             * ~/.config/nvim
